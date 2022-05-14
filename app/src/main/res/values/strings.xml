@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppFilmes</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="etNome">Nome do filme/seriado..</string>
+    <string name="btnSalvar">SALVAR</string>
+
+    <string-array name="generos">
+        <item>Selecione o gênero...</item>
+        <item>Ação</item>
+        <item>Aventura</item>
+        <item>Comédia</item>
+        <item>Cult</item>
+        <item>Drama</item>
+        <item>Ficção Científica</item>
+        <item>Musical</item>
+        <item>Romance</item>
+        <item>Terror</item>
+    </string-array>
+
+    <string-array name="categorias">
+        <item>Selecione a categoria...</item>
+        <item>Filmes</item>
+        <item>Seriados</item>
+    </string-array>
+
+
+
+</resources>
